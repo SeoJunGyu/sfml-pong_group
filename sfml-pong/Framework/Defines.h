@@ -1,6 +1,13 @@
 #pragma once
 
 // Defines.h
+enum class SortingLayers
+{
+	//Background,
+	//Forground,
+	Default,
+	//VFX,
+};
 
 enum class Origins
 {

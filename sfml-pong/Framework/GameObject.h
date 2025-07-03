@@ -14,6 +14,8 @@ protected:
 	Origins originPreset = Origins::TL;
 
 public:
+	SortingLayers sortingLayer = SortingLayers::Default;
+	int sortingOrder = 0; //이것을 기준으로 작은 숫자가 먼저 그려질 것이다.
 
 	GameObject(const std::string& name = "");
 	virtual ~GameObject();
