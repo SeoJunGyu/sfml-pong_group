@@ -1,3 +1,5 @@
+C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Ball.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\Ball.obj
+C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Bat.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\Bat.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\Framework.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\Framework.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\GameObject.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\GameObject.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\InputMgr.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\InputMgr.obj
@@ -7,6 +9,8 @@ C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\Scene.cpp;C:\Use
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\SceneDev1.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\SceneDev1.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\SceneDev2.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\SceneDev2.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\SceneMgr.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\SceneMgr.obj
+C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\SceneDuoGame.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\SceneDuoGame.obj
+C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\SceneGame.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\SceneGame.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\stdafx.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\stdafx.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\TextGo.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\TextGo.obj
 C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\Framework\Utils.cpp;C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong\sfml-pong\x64\Debug\Utils.obj

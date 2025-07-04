@@ -40,6 +40,7 @@ struct DrawOrderComparer
 	{
 		if (a->sortingLayer != b->sortingLayer)
 		{
+			//오름차순 정렬
 			return a->sortingLayer < b->sortingLayer;
 		}
 

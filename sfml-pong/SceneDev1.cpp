@@ -44,16 +44,29 @@ void SceneDev1::Update(float dt)
 	}
 
 	sf::Vector2f dir;
-	dir.x = InputMgr::GetAxisRaw(Axis::Horizontal);
-	dir.y = InputMgr::GetAxisRaw(Axis::Vertical);
+	dir.x = InputMgr::GetAxis(Axis::Horizontal);
+	dir.y = InputMgr::GetAxis(Axis::Vertical);
+
+	std::cout << InputMgr::GetAxis(Axis::Horizontal) << std::endl;
 
 	sf::Vector2f pos = testGo->GetPosition();
 	pos += dir * 100.f * dt;
 	testGo->SetPosition(pos);
 
-	if (InputMgr::GetMouseButtonDown(sf::Mouse::Left))
+	if (InputMgr::GetMouseButton(sf::Mouse::Left))
 	{
 		std::cout << InputMgr::GetMousePosition().x << ", " << InputMgr::GetMousePosition().y << std::endl;
+		testGo->SetPosition((sf::Vector2f)InputMgr::GetMousePosition());
+	}
+
+	if (InputMgr::GetKeyDown(sf::Keyboard::Enter))
+	{
+		SCENE_MGR.ChangeScene(SceneIds::Game);
 	}
 	
+}
+
+void SceneDev1::Exit()
+{
+	Scene::Exit();
 }
