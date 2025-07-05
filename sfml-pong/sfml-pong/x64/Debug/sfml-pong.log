@@ -1,6 +1,2 @@
-﻿  Ball.cpp
-  Bat.cpp
-  SceneDuoGame.cpp
-  SceneGame.cpp
-  코드를 생성하고 있습니다...
+﻿  SceneMgr.cpp
   sfml-pong.vcxproj -> C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong-bin\sfml-pong-d.exe

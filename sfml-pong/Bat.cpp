@@ -44,18 +44,18 @@ void Bat::SetOrigin(Origins preset)
 
 void Bat::Init()
 {
-	if (SCENE_MGR.GetStartSceneId() == SceneIds::Game)
+	if (!isDuo)
 	{
 		shape.setSize({ 100.f, 5.f });
-		shape.setFillColor(sf::Color::White);
-		SetOrigin(Origins::TC);
+		
 	}
-	else if (SCENE_MGR.GetStartSceneId() == SceneIds::DuoGame)
+	else
 	{
 		shape.setSize({ 5.f, 100.f });
-		shape.setFillColor(sf::Color::White);
-		SetOrigin(Origins::ML);
 	}
+
+	shape.setFillColor(sf::Color::White);
+	SetOrigin(originPreset);
 }
 
 void Bat::Release()
@@ -65,7 +65,7 @@ void Bat::Release()
 void Bat::Reset()
 {
 	sf::FloatRect bounds = FRAMEWORK.GetWindowBounds();
-	if (SCENE_MGR.GetCurrentSceneId() == SceneIds::Game)
+	if (!isDuo)
 	{
 		SetPosition({ bounds.width * 0.5f, bounds.height - 20.f });
 
@@ -73,42 +73,47 @@ void Bat::Reset()
 		minX = bounds.left + size.x * 0.5f; //왼쪽 경계 검사
 		maxX = (bounds.left + bounds.width) - size.x * 0.5f; //오른쪽 경계 검사
 	}
-	else if (SCENE_MGR.GetCurrentSceneId() == SceneIds::DuoGame)
+	else
 	{
 		if (side == Sides::Left)
 		{
-			SetPosition({ 20.f, bounds.height* 0.5f });
-
-			sf::Vector2f size = shape.getSize();
-			minY = bounds.top + size.y * 0.5f; //위쪽 경계 검사
-			maxY = (bounds.top + bounds.height) - size.y * 0.5f; //아래쪽 경계 검사
+			SetPosition({ bounds.left + 20.f, bounds.height * 0.5f });
 		}
 		else if (side == Sides::Right)
 		{
-			SetPosition({ bounds.width - 20.f, bounds.height * 0.5f });
-
-			sf::Vector2f size = shape.getSize();
-			minY = bounds.top + size.y * 0.5f; //위쪽 경계 검사
-			maxY = (bounds.top + bounds.height) - size.y * 0.5f; //아래쪽 경계 검사
+			SetPosition({ bounds.left + bounds.width - 20.f, bounds.height * 0.5f });
 		}
+
+		sf::Vector2f size = shape.getSize();
+		minY = bounds.top + size.y * 0.5f; //위쪽 경계 검사
+		maxY = (bounds.top + bounds.height) - size.y * 0.5f; //아래쪽 경계 검사
 	}
 }
 
 void Bat::Update(float dt)
 {
-	if (SCENE_MGR.GetCurrentSceneId() == SceneIds::Game)
+	if (!isDuo)
 	{
 		direction.x = InputMgr::GetAxis(Axis::Horizontal);
 		sf::Vector2f pos = GetPosition() + direction * speed * dt;
 		pos.x = Utils::Clamp(pos.x, minX, maxX);
 		SetPosition(pos);
 	}
-	else if (SCENE_MGR.GetCurrentSceneId() == SceneIds::DuoGame)
+	else
 	{
 		direction.y = InputMgr::GetAxis(Axis::Vertical);
-		sf::Vector2f pos = GetPosition() + direction * speed * dt;
-		pos.y = Utils::Clamp(pos.x, minX, maxX);
-		SetPosition(pos);
+
+		if (
+			(side == Sides::Left && InputMgr::GetKey(sf::Keyboard::W) && direction.y < 0) ||
+			(side == Sides::Left && InputMgr::GetKey(sf::Keyboard::S) && direction.y > 0) ||
+			(side == Sides::Right && InputMgr::GetKey(sf::Keyboard::Up) && direction.y < 0) ||
+			(side == Sides::Right && InputMgr::GetKey(sf::Keyboard::Down) && direction.y > 0)
+			)
+		{
+			sf::Vector2f pos = GetPosition() + direction * speed * dt;
+			pos.y = Utils::Clamp(pos.y, minY, maxY);
+			SetPosition(pos);
+		}
 	}
 }
 

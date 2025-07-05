@@ -7,33 +7,34 @@
 
 void SceneMgr::Init()
 {
-	//scenes.insert({ SceneIds::Game, new SceneGame() });
-	//scenes.insert({ SceneIds::Dev1, new SceneDev1() });
-	//scenes.insert({ SceneIds::Dev2, new SceneDev2() });
-	scenes.push_back(new SceneGame());
-	scenes.push_back(new SceneDuoGame());
-	scenes.push_back(new SceneDev1());
-	scenes.push_back(new SceneDev2());
+	scenes.insert({ SceneIds::Game, new SceneGame() });
+	scenes.insert({ SceneIds::DuoGame, new SceneDuoGame() });
+	scenes.insert({ SceneIds::Dev1, new SceneDev1() });
+	scenes.insert({ SceneIds::Dev2, new SceneDev2() });
+	//scenes.push_back(new SceneGame());
+	//scenes.push_back(new SceneDuoGame());
+	//scenes.push_back(new SceneDev1());
+	//scenes.push_back(new SceneDev2());
 
-	for (auto scene : scenes)
+	for (auto pair : scenes)
 	{
-		scene->Init();
+		pair.second->Init();
 	}
 
 	currentScene = startScene;
-	scenes[(int)currentScene]->Enter();
+	scenes[currentScene]->Enter();
 }
 
 void SceneMgr::Release()
 {
-	for (auto scene : scenes)
+	for (auto pair : scenes)
 	{
-		if (scene->Id == currentScene)
+		if (pair.first == currentScene)
 		{
-			scene->Exit();
+			pair.second->Exit();
 		}
-		scene->Release();
-		delete scene;
+		pair.second->Release();
+		delete pair.second;
 	}
 	scenes.clear();
 }
@@ -47,16 +48,16 @@ void SceneMgr::Update(float dt)
 {
 	if (nextScene != SceneIds::None)
 	{
-		scenes[(int)currentScene]->Exit();
+		scenes[currentScene]->Exit();
 		currentScene = nextScene;
 		nextScene = SceneIds::None;
-		scenes[(int)currentScene]->Enter();
+		scenes[currentScene]->Enter();
 	}
 
-	scenes[(int)currentScene]->Update(dt);
+	scenes[currentScene]->Update(dt);
 }
 
 void SceneMgr::Draw(sf::RenderWindow& window)
 {
-	scenes[(int)currentScene]->Draw(window);
+	scenes[currentScene]->Draw(window);
 }

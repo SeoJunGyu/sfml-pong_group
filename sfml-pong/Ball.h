@@ -13,11 +13,16 @@ protected:
     sf::Vector2f direction;
 
     Bat* bat = nullptr;
+    Bat* bat1 = nullptr;
+    Bat* bat2 = nullptr;
 
     float minX = 0.f;
     float maxX = 0.f;
     float minY = 0.f;
     float maxY = 0.f;
+
+    Sides side = Sides::None;
+    bool isDuo = false;
 
 public:
     Ball(const std::string& name = "");
@@ -38,5 +43,10 @@ public:
 
     void Fire(const sf::Vector2f& d, float s);
     void SetBat(Bat* bat) { this->bat = bat; }
+    void SetBat1(Bat* bat) { this->bat1 = bat; }
+    void SetBat2(Bat* bat) { this->bat2 = bat; }
+
+    void SetDuo(bool duo) { isDuo = duo; }
+    void SetSide(Sides side) { this->side = side; }
 };
 

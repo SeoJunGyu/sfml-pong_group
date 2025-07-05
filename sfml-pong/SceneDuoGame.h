@@ -8,7 +8,8 @@ class SceneDuoGame :
     public Scene
 {
 protected:
-    Bat* bat = nullptr;
+    Bat* bat1 = nullptr;
+    Bat* bat2 = nullptr;
     Ball* ball = nullptr;
 
     bool ballActive = false;

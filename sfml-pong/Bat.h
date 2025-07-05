@@ -16,6 +16,8 @@ protected:
 
     Sides side = Sides::None;
 
+    bool isDuo = false;
+
 public:
     Bat(const std::string& name = "");
     ~Bat() = default;
@@ -33,6 +35,7 @@ public:
     void Update(float dt) override;
     void Draw(sf::RenderWindow& window) override;
 
+    void SetDuo(bool duo) { isDuo = duo; }
     void SetSide(Sides side) { this->side = side; }
 
     sf::FloatRect GetGlobalBounds() { return shape.getGlobalBounds(); }

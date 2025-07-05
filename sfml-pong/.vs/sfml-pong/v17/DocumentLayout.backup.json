@@ -3,72 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneDuoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Bat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneDuoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Bat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\InputMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\TextGo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\TextGo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneDuoGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\TextGo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\TextGo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDev1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -81,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|solutionrelative:Framework\\InputMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11673853-143C-4C56-92BE-F2AF694319F7}|sfml-pong.vcxproj|C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,13 +118,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp",
+              "RelativeDocumentMoniker": "Framework\\SceneMgr.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp",
+              "RelativeToolTip": "Framework\\SceneMgr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T04:17:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SceneDuoGame.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp",
+              "RelativeDocumentMoniker": "SceneDuoGame.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp",
+              "RelativeToolTip": "SceneDuoGame.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T07:49:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bat.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.cpp",
+              "RelativeDocumentMoniker": "Bat.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.cpp",
+              "RelativeToolTip": "Bat.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T04:21:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bat.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h",
+              "RelativeDocumentMoniker": "Bat.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h",
+              "RelativeToolTip": "Bat.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-04T04:20:26.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Defines.h",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Defines.h",
               "RelativeDocumentMoniker": "Framework\\Defines.h",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Defines.h",
               "RelativeToolTip": "Framework\\Defines.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-03T04:50:23.757Z",
               "EditorCaption": ""
@@ -132,97 +184,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bat.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.cpp",
-              "RelativeDocumentMoniker": "Bat.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.cpp",
-              "RelativeToolTip": "Bat.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-04T04:21:33.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SceneMgr.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp",
-              "RelativeDocumentMoniker": "Framework\\SceneMgr.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.cpp",
-              "RelativeToolTip": "Framework\\SceneMgr.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-04T04:17:41.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bat.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h",
-              "RelativeDocumentMoniker": "Bat.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Bat.h",
-              "RelativeToolTip": "Bat.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Title": "SceneMgr.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h",
+              "RelativeDocumentMoniker": "Framework\\SceneMgr.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h",
+              "RelativeToolTip": "Framework\\SceneMgr.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T04:20:26.038Z",
+              "WhenOpened": "2025-07-04T04:18:11.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SceneDuoGame.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp",
-              "RelativeDocumentMoniker": "SceneDuoGame.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.cpp",
-              "RelativeToolTip": "SceneDuoGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "InputMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp",
+              "RelativeDocumentMoniker": "Framework\\InputMgr.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp",
+              "RelativeToolTip": "Framework\\InputMgr.cpp",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-04T07:49:04.194Z",
+              "WhenOpened": "2025-07-03T06:52:08.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "InputMgr.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h",
+              "RelativeDocumentMoniker": "Framework\\InputMgr.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h",
+              "RelativeToolTip": "Framework\\InputMgr.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-03T06:52:07.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SceneGame.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.cpp",
               "RelativeDocumentMoniker": "SceneGame.cpp",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.cpp",
               "RelativeToolTip": "SceneGame.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-04T04:17:14.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Scene.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp",
-              "RelativeDocumentMoniker": "Framework\\Scene.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp",
-              "RelativeToolTip": "Framework\\Scene.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Ball.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.cpp",
+              "RelativeDocumentMoniker": "Ball.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.cpp",
+              "RelativeToolTip": "Ball.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAMMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T04:52:58.557Z",
+              "WhenOpened": "2025-07-04T04:21:27.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "SceneDuoGame.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.h",
+              "RelativeDocumentMoniker": "SceneDuoGame.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.h",
+              "RelativeToolTip": "SceneDuoGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-04T07:47:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ball.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h",
+              "RelativeDocumentMoniker": "Ball.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h",
+              "RelativeToolTip": "Ball.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-04T04:20:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-03T04:26:35.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Framework.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Framework.cpp",
               "RelativeDocumentMoniker": "Framework\\Framework.cpp",
@@ -235,7 +300,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp",
+              "RelativeDocumentMoniker": "Framework\\Scene.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.cpp",
+              "RelativeToolTip": "Framework\\Scene.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T04:52:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h",
+              "RelativeDocumentMoniker": "Framework\\GameObject.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h",
+              "RelativeToolTip": "Framework\\GameObject.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-03T04:51:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "GameObject.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.cpp",
               "RelativeDocumentMoniker": "Framework\\GameObject.cpp",
@@ -243,38 +334,11 @@
               "RelativeToolTip": "Framework\\GameObject.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T05:54:13.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T05:54:13.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameObject.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h",
-              "RelativeDocumentMoniker": "Framework\\GameObject.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\GameObject.h",
-              "RelativeToolTip": "Framework\\GameObject.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T04:51:39.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SceneMgr.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h",
-              "RelativeDocumentMoniker": "Framework\\SceneMgr.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\SceneMgr.h",
-              "RelativeToolTip": "Framework\\SceneMgr.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T04:18:11.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "SceneGame.h",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneGame.h",
               "RelativeDocumentMoniker": "SceneGame.h",
@@ -286,19 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Ball.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.cpp",
-              "RelativeDocumentMoniker": "Ball.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.cpp",
-              "RelativeToolTip": "Ball.cpp",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-04T04:21:27.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "TextGo.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\TextGo.cpp",
               "RelativeDocumentMoniker": "Framework\\TextGo.cpp",
@@ -310,31 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SceneDuoGame.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.h",
-              "RelativeDocumentMoniker": "SceneDuoGame.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDuoGame.h",
-              "RelativeToolTip": "SceneDuoGame.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T07:47:42.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "InputMgr.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h",
-              "RelativeDocumentMoniker": "Framework\\InputMgr.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.h",
-              "RelativeToolTip": "Framework\\InputMgr.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T06:52:07.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "SceneDev1.h",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDev1.h",
               "RelativeDocumentMoniker": "SceneDev1.h",
@@ -346,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "SceneDev1.cpp",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\SceneDev1.cpp",
               "RelativeDocumentMoniker": "SceneDev1.cpp",
@@ -358,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\Scene.h",
               "RelativeDocumentMoniker": "Framework\\Scene.h",
@@ -367,30 +395,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-03T04:52:48.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Ball.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h",
-              "RelativeDocumentMoniker": "Ball.h",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Ball.h",
-              "RelativeToolTip": "Ball.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T04:20:39.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "InputMgr.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp",
-              "RelativeDocumentMoniker": "Framework\\InputMgr.cpp",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\jungyu\\sfml-pong_group\\sfml-pong\\Framework\\InputMgr.cpp",
-              "RelativeToolTip": "Framework\\InputMgr.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T06:52:08.319Z"
             },
             {
               "$type": "Document",

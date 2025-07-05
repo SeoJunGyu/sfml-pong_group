@@ -7,8 +7,8 @@ protected:
 	SceneMgr() = default;
 	~SceneMgr() = default;
 
-	std::vector<Scene*> scenes;
-	//std::unordered_map<SceneIds, Scene*> scenes;
+	//std::vector<Scene*> scenes;
+	std::unordered_map<SceneIds, Scene*> scenes;
 
 	SceneIds startScene = SceneIds::DuoGame;
 	SceneIds currentScene = SceneIds::None;
@@ -18,7 +18,7 @@ public:
 	void Init();
 	void Release();
 
-	Scene* GetCurrentScene() { return scenes[(int)currentScene]; }
+	Scene* GetCurrentScene() { return scenes[currentScene]; }
 	SceneIds GetStartSceneId() const { return startScene; }
 	SceneIds GetCurrentSceneId() const { return currentScene; }
 	void ChangeScene(SceneIds id);
