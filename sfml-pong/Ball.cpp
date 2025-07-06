@@ -3,6 +3,7 @@
 #include "Bat.h"
 #include "SceneGame.h"
 #include "SceneDuoGame.h"
+#include "UiHud.h"
 
 Ball::Ball(const std::string& name)
 	: GameObject(name)
@@ -137,19 +138,30 @@ void Ball::Update(float dt)
 		if (pos.x < minX)
 		{
 			// 좌측 충돌
-			if (SCENE_MGR.GetCurrentSceneId() == SceneIds::DuoGame)
+			if (!uiHud->GetShowMessage())
 			{
 				SceneDuoGame* scene = (SceneDuoGame*)SCENE_MGR.GetCurrentScene();
-				scene->SetGameOver();
+				uiHud->SetScore2(uiHud->GetScore2() + 10);
+				uiHud->SetMessage("Press Enter to Restart!");
+				uiHud->SetShowMessage(true);
+				//scene->SetGameOver();
 			}
 		}
 		else if (pos.x > maxX)
 		{
 			// 우측 충돌
-			if (SCENE_MGR.GetCurrentSceneId() == SceneIds::DuoGame)
+			if (!uiHud->GetShowMessage())
 			{
 				SceneDuoGame* scene = (SceneDuoGame*)SCENE_MGR.GetCurrentScene();
-				scene->SetGameOver();
+				uiHud->SetScore1(uiHud->GetScore1() + 10);
+				uiHud->SetMessage("Press Enter to Restart!");
+				uiHud->SetShowMessage(true);
+				if (uiHud->GetScore1() > 50)
+				{
+					uiHud->SetMessage("Player1 win!");
+					uiHud->SetWin(true);
+				}
+				//scene->SetGameOver();
 			}
 		}
 

@@ -2,6 +2,7 @@
 #include "GameObject.h"
 
 class Bat;
+class UiHud;
 
 class Ball :
     public GameObject
@@ -15,6 +16,7 @@ protected:
     Bat* bat = nullptr;
     Bat* bat1 = nullptr;
     Bat* bat2 = nullptr;
+    UiHud* uiHud = nullptr;
 
     float minX = 0.f;
     float maxX = 0.f;
@@ -45,6 +47,7 @@ public:
     void SetBat(Bat* bat) { this->bat = bat; }
     void SetBat1(Bat* bat) { this->bat1 = bat; }
     void SetBat2(Bat* bat) { this->bat2 = bat; }
+    void SetUiHud(UiHud* uihud) { uiHud = uihud; }
 
     void SetDuo(bool duo) { isDuo = duo; }
     void SetSide(Sides side) { this->side = side; }

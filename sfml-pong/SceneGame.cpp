@@ -2,6 +2,7 @@
 #include "SceneGame.h"
 #include "Bat.h"
 #include "Ball.h"
+#include "UiHud.h"
 
 SceneGame::SceneGame()
 	: Scene(SceneIds::Game)
@@ -10,11 +11,14 @@ SceneGame::SceneGame()
 
 void SceneGame::Init()
 {
+	fontIds.push_back("fonts/DS-DIGIT.ttf");
+
 	bat = (Bat*)AddGameObject(new Bat("Bat"));
 	ball = (Ball*)AddGameObject(new Ball("Ball"));
 
 	bat->SetOrigin(Origins::TC);
 	ball->SetBat(bat);
+	ball->SetOrigin(Origins::BC);
 
 	//일반 가상함수이기에 부모씬에서 사용하던걸 호출하기위해 부모함수도 호출해야한다.
 	Scene::Init(); 
