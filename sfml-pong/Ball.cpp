@@ -144,6 +144,11 @@ void Ball::Update(float dt)
 				uiHud->SetScore2(uiHud->GetScore2() + 10);
 				uiHud->SetMessage("Press Enter to Restart!");
 				uiHud->SetShowMessage(true);
+				if (uiHud->GetScore2() > 50)
+				{
+					uiHud->SetMessage("Player2 win!");
+					uiHud->SetWin(true);
+				}
 				//scene->SetGameOver();
 			}
 		}

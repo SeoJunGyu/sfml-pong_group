@@ -1,6 +1,19 @@
-﻿  Ball.cpp
+﻿  stdafx.cpp
+  Ball.cpp
+  Bat.cpp
+  Framework.cpp
+  GameObject.cpp
+  InputMgr.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  SpriteGo.cpp
+  TextGo.cpp
+  Utils.cpp
+  SceneDev1.cpp
+  SceneDev2.cpp
   SceneDuoGame.cpp
   SceneGame.cpp
   UiHud.cpp
+  main.cpp
   코드를 생성하고 있습니다...
-  sfml-pong.vcxproj -> C:\Users\user\Desktop\jungyu\sfml-pong_group\sfml-pong-bin\sfml-pong-d.exe
+  sfml-pong.vcxproj -> C:\Users\KGA\Desktop\jungyu\sfml-pong_group\sfml-pong-bin\sfml-pong-d.exe
